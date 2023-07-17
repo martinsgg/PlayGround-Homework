@@ -9,27 +9,22 @@
    "attractions":[
       {
          "slots":2,
-         "availableSlots":0,
          "attractionName":"DoubleSwing"
       },
       {
          "slots":2,
-         "availableSlots":1,
          "attractionName":"DoubleSwing"
       },
       {
          "slots":50,
-         "availableSlots":38,
          "attractionName":"Carousel"
       },
       {
          "slots":15,
-         "availableSlots":15,
          "attractionName":"Slide"
       },
       {
          "slots":120,
-         "availableSlots":120,
          "attractionName":"BallPit"
       }
    ]
