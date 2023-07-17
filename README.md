@@ -3,7 +3,37 @@
 ## Usage examples
 ### http://localhost:8080/playground (POST) to create PlayGround body:
 ```
-{"name":"Ķīpsalas parks","id":0,"attractions":[{"slots":2,"availableSlots":0,"attractionName":"DoubleSwing"},{"slots":2,"availableSlots":1,"attractionName":"DoubleSwing"},{"slots":50,"availableSlots":38,"attractionName":"Carousel"},{"slots":15,"availableSlots":15,"attractionName":"Slide"},{"slots":120,"availableSlots":120,"attractionName":"BallPit"}]}
+{
+   "name":"Ķīpsalas parks",
+   "id":0,
+   "attractions":[
+      {
+         "slots":2,
+         "availableSlots":0,
+         "attractionName":"DoubleSwing"
+      },
+      {
+         "slots":2,
+         "availableSlots":1,
+         "attractionName":"DoubleSwing"
+      },
+      {
+         "slots":50,
+         "availableSlots":38,
+         "attractionName":"Carousel"
+      },
+      {
+         "slots":15,
+         "availableSlots":15,
+         "attractionName":"Slide"
+      },
+      {
+         "slots":120,
+         "availableSlots":120,
+         "attractionName":"BallPit"
+      }
+   ]
+}
 ```
 
 ### To receive just created playground. (GET)
