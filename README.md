@@ -1,7 +1,7 @@
 # PlayGround-Homework
 
 ## Usage examples
-### http://localhost:8080/playground (POST) to create PlayGround body:
+### http://localhost:8080/playground (POST) to create PlayGround:
 ```
 {
    "name":"Ķīpsalas parks",
